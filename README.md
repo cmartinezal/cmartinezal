@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<<h1 align="center">👋 Hi, I'm Carolina 👩🏻‍💻</h1>
+<h1 align="center">👋 Hi, I'm Carolina 👩🏻‍💻</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
 <p align="left">I have more than 5 years of experience as a Software Engineer. I enjoy managing projects, planning, and designing each phase of the software development lifecycle. I am familiar with a variety of programming languages, but I am always adding new skills to my repertoire. Traveling and learning new cultures is one of my passions, that is why I love working in international teams.<p>
