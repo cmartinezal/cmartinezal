@@ -22,22 +22,22 @@ Here are some ideas to get you started:
 
 ### ⭐️ Tecnologies
   
-![Python](https://img.shields.io/badge/-Python-05122A?style=?style=flat&color=white&logo=python)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&color=white&logo=pandas&logoColor=2904b3)&nbsp;
-![PLSQL](https://img.shields.io/badge/-PLSQL-05122A?style=?style=flat&color=white&logo=oracle&logoColor=black)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=?style=flat&color=white&logo=mysql)&nbsp;
-![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=?style=flat&color=white&logo=microsoftsqlserver&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&color=white&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&color=white&logo=pandas&logoColor=2904b3)&nbsp;
+![PLSQL](https://img.shields.io/badge/-PLSQL-05122A?style=flat-square&color=white&logo=oracle&logoColor=black)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&color=white&logo=mysql)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat-square&color=white&logo=microsoftsqlserver&logoColor=black)&nbsp;
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&color=white&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&color=white&logo=express&logoColor=black)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=white&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&color=white&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=white&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&color=white&logo=CSS3&logoColor=1572B6)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&color=white&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&color=white&logo=express&logoColor=black)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&color=white&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&color=white&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&color=white&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&color=white&logo=CSS3&logoColor=1572B6)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=white&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=white&logo=github&logoColor=black)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&color=white&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&color=white&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&color=white&logo=github&logoColor=black)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&color=white&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📫 How to reach me:
 
