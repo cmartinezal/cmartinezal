@@ -13,22 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">👋 Hi, I'm Carolina 👩🏻‍💻</h1>
+<<h1 align="center">👋 Hi, I'm Carolina 👩🏻‍💻</h1>
 <h3 align="center">Senior Software Engineer</h3>
-
 
 <p align="left">I have more than 5 years of experience as a Software Engineer. I enjoy managing projects, planning, and designing each phase of the software development lifecycle. I am familiar with a variety of programming languages, but I am always adding new skills to my repertoire. Traveling and learning new cultures is one of my passions, that is why I love working in international teams.<p>
 
+### ⭐️ Key Tecnologies
 
-### ⭐️ Tecnologies
-  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&color=white&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&color=white&logo=pandas&logoColor=2904b3)&nbsp;
 ![PLSQL](https://img.shields.io/badge/-PLSQL-05122A?style=flat-square&color=white&logo=oracle&logoColor=black)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&color=white&logo=mysql)&nbsp;
-![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat-square&color=white&logo=microsoftsqlserver&logoColor=black)&nbsp;
-
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&color=white&logo=node.js)&nbsp;
+
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&color=white&logo=express&logoColor=black)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&color=white&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&color=white&logo=bootstrap&logoColor=563D7C)
@@ -39,6 +36,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&color=white&logo=github&logoColor=black)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&color=white&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 📫 How to reach me:
+###  🔗 Let's Connect
 
 <a href="https://www.linkedin.com/in/carolina-martinez-alonso/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a> &nbsp;
