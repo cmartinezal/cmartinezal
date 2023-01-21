@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&color=white&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&color=white&logo=CSS3&logoColor=1572B6)&nbsp;
 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&color=white&logo=docker&logoColor=0898ff)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&color=white&logo=docker)&nbsp;
 ![Podman](https://img.shields.io/badge/-Podman-05122A?style=flat-square&color=white&logo=podman&logoColor=7632ad)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&color=white&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&color=white&logo=github&logoColor=black)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&color=white&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat-square&color=white&logo=swagger)&nbsp;
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-05122A?style=flat-square&color=white&logo=openapiinitiative)&nbsp;
 
 ###  🔗 Let's Connect
 
