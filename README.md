@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### ⭐️ Key Tecnologies
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&color=white&logo=python)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&color=white&logo=pandas&logoColor=2904b3)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?&style=flat-square&color=white&logo=pandas&logoColor=2904b3)&nbsp;
 ![PLSQL](https://img.shields.io/badge/-PLSQL-05122A?style=flat-square&color=white&logo=oracle&logoColor=black)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&color=white&logo=mysql)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat-square&color=white&logo=node.js)&nbsp;
